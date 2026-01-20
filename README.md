@@ -32,6 +32,7 @@ The simulation follows these four steps:
 * `src/visualization.py`: Generates plots for the simulated paths and the PnL distribution.
 * `Monte_Carlo_Risk_Simulation.ipynb`: A Jupyter Notebook version of the project, useful for presentation and step-by-step analysis.
 * `data/prices.csv`: The dataset used for the simulation.
+* `.gitignore`: Created to ignore macOS .DS_Store files.
 
 ## Data
 The project uses a CSV dataset (`prices.csv`) containing daily closing prices for:
